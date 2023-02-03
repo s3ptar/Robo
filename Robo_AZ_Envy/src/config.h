@@ -40,6 +40,9 @@
 #define wlan_connection_retry 3
 #define wlan_tonnection_timeout 5000
 
+// Host name (please change it)
+
+#define HOST_NAME "remotedebug"
 /***********************************************************************
  * Macros
  **********************************************************************/
